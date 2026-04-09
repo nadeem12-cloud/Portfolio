@@ -243,7 +243,7 @@ MIT License - feel free to fork and customize for your own portfolio!
 ## 🤝 Connect With Me
 
 - **GitHub:** [@nadeem12-cloud](https://github.com/nadeem12-cloud)
-- **LinkedIn:** [Nadeem Merchant](https://linkedin.com/in/nadeem10)
+- **LinkedIn:** [Nadeem Memon](www.linkedin.com/in/nadeemmemon10)
 - **Email:** nadeemmemon735@gmail.com
 - **Instagram:** [@talksicknadeem](https://instagram.com/talksicknadeem)
 
