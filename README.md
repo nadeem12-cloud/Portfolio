@@ -1,10 +1,10 @@
-# Nadeem Merchant - Portfolio Website
+# Nadeem Memon - Portfolio Website
 
 ![Portfolio Preview](https://img.shields.io/badge/Status-Live-brightgreen) ![Built with](https://img.shields.io/badge/Built%20with-HTML%2FCSS%2FJS-blue) ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 > A bold, modern portfolio showcasing my work in Machine Learning, Data Science, and Full-Stack Development.
 
-**Live Demo:** [nadeemmerchant.dev](#) (Update with your deployed URL)
+**Live Demo:** [https://nadeem12-cloud.github.io/Portfolio/](#) (Update with your deployed URL)
 
 ---
 
@@ -244,7 +244,7 @@ MIT License - feel free to fork and customize for your own portfolio!
 
 - **GitHub:** [@nadeem12-cloud](https://github.com/nadeem12-cloud)
 - **LinkedIn:** [Nadeem Merchant](https://linkedin.com/in/nadeem10)
-- **Email:** nadeem.merchant@example.com
+- **Email:** nadeemmemon735@gmail.com
 - **Instagram:** [@talksicknadeem](https://instagram.com/talksicknadeem)
 
 ---
@@ -271,4 +271,4 @@ If you found this portfolio inspiring or useful, consider:
 ---
 
 **Built with passion and precision by Nadeem Merchant** 🚀
-*Last Updated: April 2025*
+*Last Updated: April 2026*
