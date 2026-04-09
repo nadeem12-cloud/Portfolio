@@ -270,5 +270,5 @@ If you found this portfolio inspiring or useful, consider:
 
 ---
 
-**Built with passion and precision by Nadeem Merchant** 🚀
+**Built with passion and precision by Nadeem Memon** 🚀
 *Last Updated: April 2026*
