@@ -4,7 +4,7 @@
 
 > A bold, modern portfolio showcasing my work in Machine Learning, Data Science, and Full-Stack Development.
 
-**Live Demo:** [https://nadeem12-cloud.github.io/Portfolio/](#) (Update with your deployed URL)
+**Live Demo:** [https://nadeem12-cloud.github.io/Portfolio/]
 
 ---
 
