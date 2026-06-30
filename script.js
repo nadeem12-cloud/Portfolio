@@ -50,7 +50,7 @@ const observer = new IntersectionObserver((entries) => {
 
 // Observe all project cards and skill categories
 document.addEventListener('DOMContentLoaded', () => {
-    const animatedElements = document.querySelectorAll('.project-card, .skill-category, .contact-card, .detail-card');
+    const animatedElements = document.querySelectorAll('.project-card, .skill-category, .contact-card, .detail-card, .experience-card');
     
     animatedElements.forEach((el, index) => {
         el.style.opacity = '0';
@@ -142,4 +142,4 @@ if (heroDescription) {
 console.log('%cHey there! 👋', 'color: #FF3366; font-size: 24px; font-weight: bold;');
 console.log('%cLooks like you\'re curious about how this works.', 'color: #00E5FF; font-size: 14px;');
 console.log('%cWant to collaborate? Let\'s build something amazing together!', 'color: #FFB800; font-size: 14px;');
-console.log('%cReach out: nadeem.merchant@example.com', 'color: #A0A0B0; font-size: 12px;');
+console.log('%cReach out: nadeemmemon735@gmail.com', 'color: #A0A0B0; font-size: 12px;');
